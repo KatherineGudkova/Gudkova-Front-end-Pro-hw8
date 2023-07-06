@@ -159,7 +159,7 @@ for (let i = 1; i <= 10; i++){
         arrayTwelve.push(`
         ${i} * ${j} = ${mult}`);
     }
-    console.log(arrayTwelve);
+    //console.log(arrayTwelve);
     alert(`----------- Task 12.${i} -----------
     ${arrayTwelve}`);
 }
